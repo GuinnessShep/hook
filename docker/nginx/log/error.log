@@ -1,0 +1,1 @@
+2023/09/25 00:51:59 [emerg] 1#1: host not found in upstream "backend" in /etc/nginx/conf.d/app.conf:19
